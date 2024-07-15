@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Image_1.jpg</filename>
+	<path>D:\ICU_Monitoring_System\dataset\images\Image_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doctor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>13</ymin>
+			<xmax>703</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+</annotation>
